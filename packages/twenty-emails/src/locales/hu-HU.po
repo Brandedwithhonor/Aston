@@ -117,4 +117,3 @@ msgstr "Email ellenőrzése"
 #: src/emails/clean-suspended-workspace.email.tsx:27
 msgid "Your workspace <0>{workspaceDisplayName}</0> has been deleted as your subscription expired {inactiveDaysBeforeDelete} days ago."
 msgstr "Munkaterülete <0>{workspaceDisplayName}</0> törlésre került, mivel előfizetése {inactiveDaysBeforeDelete} nappal ezelőtt lejárt."
-

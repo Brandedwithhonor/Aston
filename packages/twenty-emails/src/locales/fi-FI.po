@@ -117,4 +117,3 @@ msgstr "Vahvista sähköposti"
 #: src/emails/clean-suspended-workspace.email.tsx:27
 msgid "Your workspace <0>{workspaceDisplayName}</0> has been deleted as your subscription expired {inactiveDaysBeforeDelete} days ago."
 msgstr "Työtilasi <0>{workspaceDisplayName}</0> on poistettu, koska tilauksesi vanheni {inactiveDaysBeforeDelete} päivää sitten."
-

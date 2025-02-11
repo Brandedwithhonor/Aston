@@ -117,4 +117,3 @@ msgstr "Bekræft e-mail"
 #: src/emails/clean-suspended-workspace.email.tsx:27
 msgid "Your workspace <0>{workspaceDisplayName}</0> has been deleted as your subscription expired {inactiveDaysBeforeDelete} days ago."
 msgstr "Dit arbejdsområde <0>{workspaceDisplayName}</0> er blevet slettet, da dit abonnement udløb for {inactiveDaysBeforeDelete} dage siden."
-

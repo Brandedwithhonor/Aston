@@ -117,4 +117,3 @@ msgstr "Verifiser e-post"
 #: src/emails/clean-suspended-workspace.email.tsx:27
 msgid "Your workspace <0>{workspaceDisplayName}</0> has been deleted as your subscription expired {inactiveDaysBeforeDelete} days ago."
 msgstr "Ditt arbeidsområde <0>{workspaceDisplayName}</0> har blitt slettet da ditt abonnement utløp for {inactiveDaysBeforeDelete} dager siden."
-

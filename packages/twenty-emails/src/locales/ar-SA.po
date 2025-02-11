@@ -117,4 +117,3 @@ msgstr "تحقق من البريد الإلكتروني"
 #: src/emails/clean-suspended-workspace.email.tsx:27
 msgid "Your workspace <0>{workspaceDisplayName}</0> has been deleted as your subscription expired {inactiveDaysBeforeDelete} days ago."
 msgstr "تم حذف مساحة العمل <0>{workspaceDisplayName}</0> كون اشتراكك قد انتهى منذ {inactiveDaysBeforeDelete} أيام."
-
